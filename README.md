@@ -41,4 +41,8 @@ npm run build:apk
 
 ## License
 
+Source-available under **Apache 2.0 + Commons Clause**.
+
+You may use, modify, and share the code freely. **Selling PhotoSwiper (or a product whose value substantially comes from it) is not allowed.**
+
 See [LICENSE](LICENSE).
